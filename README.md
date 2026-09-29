@@ -1,37 +1,30 @@
 # Python Mathematical Problem Solver
 
-## Project Overview
+This project was made for the CSE1021 - Problem Solving and Programming course as a menu driven python application
+Below are the features that have been added to the application:
 
-Python Mathematical Problem Solver is a menu-driven Python project developed for the CSE1021 – Problem Solving and Programming course.
+Square Root Calculator
+GCD calculator
+Smallest Divisors calculator
+Prime generator
+Prime Factorization
+Fibonacci series
+Power calculator
+Random number generator
+And below are the objectives that this project fulfills:
 
-The project provides different mathematical operations through a simple and user-friendly menu.
+Use problem solving techniques to solve various problems using python.
+Use algorithms and analyze their implementation.
+Learn about and use functions, loops, conditions and I/O in python
+Construct a modular and user friendly python application.
 
-## Features
+The technologies used to build and maintain the application is mentioned below:
 
-- Square Root Calculator
-- GCD Calculator
-- Smallest Divisor Finder
-- Prime Number Generator
-- Prime Factorization
-- Fibonacci Series
-- Power Calculator
-- Random Number Generator
+Python 3
+GitHub
 
-## Objectives
+Below is the project structure:
 
-- To apply problem-solving techniques using Python.
-- To understand algorithms and their implementation.
-- To practice functions, loops, conditions and input/output.
-- To develop a modular and user-friendly Python application.
-
-## Technologies Used
-
-- Python 3
-- GitHub
-
-## Project Structure
-
-```text
 python-mathematical-problem-solver/
 │
 ├── main.py
