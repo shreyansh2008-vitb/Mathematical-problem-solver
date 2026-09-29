@@ -6,25 +6,23 @@ Python Mathematical Problem Solver
 
 ## Problem Statement
 
-While solving any problem there are instances when we have to do various mathematical calculations. It may become tedious to perform the calculations manually every-time.
+In the process of addressing mathematical problems we frequently encounter the need to perform various mathematical operations. However, performing these operations manually, over and over, is a tedious process that leaves room for error.
 
-This project is simple Python based application which contains various mathematical operations which can be used by the user. The user will just have to choose the operation from the given menu and enter the required values.
+This project is a simple application built in Python which unifies a few commonly used mathematical operations, enabling the user to choose the desired operation from the menu and enter the required data.
 
 ## Objectives
 
-- To design a simple mathematical problem solver application in python.
+- To design a simple mathematical problem-solving program in Python.
 
-- Learn and implement basic algorithmic approaches.
+- To learn and implement fundamental algorithms.
 
-- Gain knowledge about the basic python concepts like loops, functions, conditions and user input.
+- To gain experience with functions, loops, condition statements, and user input.
 
-- To separate the application in modules.
+- To separate the program into distinct modules.
 
-- To design a user friendly application.
+- To design the program in a user-friendly manner.
 
 ## Main Features
-
-Following are the mathematical operations designed in the project:
 
 1. Square root calculator
 
@@ -34,20 +32,28 @@ Following are the mathematical operations designed in the project:
 
 4. Prime number generator
 
-5. Prime factors finder
+## Scope
 
-6. Fibonacci series generator
+The scope of the project includes fundamental mathematical operations and calculations. At the same time, the structure of the program allows for the addition of new mathematical operations.
 
-7. Power calculator
-
-8. Random number generator
-
-## Scope of the Project
-
-The program can be used to solve different mathematical calculations and generate different series. The project can be further extended to further mathematical operations as it is organized in form of modules.
-
-## Technology Used
+## Technologies
 
 - Python 3
 
-- GitHub jn
+- GitHub
+
+## Project Modules
+
+- `main.py` – the main menu and the controller of the program
+
+- `square_root.py` – the square root calculator
+
+- `gcd.py` – the GCD calculator
+
+- `divisor.py` – the smallest divisor calculator
+
+- `prime_generator.py` – the prime number generator
+
+## Future Improvements
+
+The program can be expanded with additional mathematical operations and improved to allow the calculation of more complex mathematical expressions.
