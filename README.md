@@ -44,4 +44,35 @@ Python-Mathematical-Problem-Solver/
 ├── prime_generator.py
 ├── README.md
 └── statement.md
+```
+## File Description
+
+- `main.py` – Contains the main menu and controls the overall program.
+- `square_root.py` – Performs square root calculation.
+- `gcd.py` – Calculates the Greatest Common Divisor of two numbers.
+- `divisor.py` – Finds the smallest divisor of a given number.
+- `prime_generator.py` – Generates prime numbers up to a given limit.
+- `README.md` – Contains information about the project, installation, running and testing instructions.
+- `statement.md` – Contains the project statement, scope, target users and high-level features.
+
+## Installation
+
+1. Download or clone the project repository from GitHub.
+2. Open the downloaded project folder.
+3. Make sure all Python files are present in the same folder.
+4. No additional external packages are required to run this project.
+5. The project can be opened directly in any Python 3 environment.
+
+## How to Run
+
+1. Open the project folder in a terminal.
+2. Run the following command:
+
+```bash
+python main.py
+```
+3. The main menu will appear.
+4. Select an option by entering its number.
+5. Enter the required input when prompted.
+6. The program will display the result.
 
